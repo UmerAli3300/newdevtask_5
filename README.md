@@ -23,3 +23,6 @@ Build an interactive dashboard to analyze Global Superstore sales, profit, and c
 1. `pip install streamlit pandas openpyxl matplotlib seaborn`
 2. Place `Sample - Superstore.xlsx` in same folder
 3. Run: `streamlit run task5newdev.py`
+
+## Screenshot
+<img width="1600" height="900" alt="Screenshot_20250909_233728" src="https://github.com/user-attachments/assets/68989ef2-85a2-4766-b036-304c07f10626" />
